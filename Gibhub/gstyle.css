@@ -1,0 +1,40 @@
+.container {
+ width: 100%;
+ background-color:rgb(200, 221, 230);
+ text-align: center;
+ 
+}
+
+.col {
+   width: 95%;
+   padding: 15px;
+   justify-content: space-evenly;
+   display:flexbox
+}
+
+#col1{
+    background-color:skyblue;
+    margin-left: 20px;   
+   
+}
+#col2{
+    background-color: thistle;
+    margin top: 5px;
+    margin-left: 20px;   
+}
+#col3{
+    background-color:whitesmoke;
+    margin-top: 10px;
+    margin-left: 20px;
+
+}
+img{
+    height:200px;
+}
+
+#col2 img{
+    margin: 0px 45px;
+}
+h1{
+    padding-top: 25px;
+}

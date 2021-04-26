@@ -1,0 +1,18 @@
+#dojo {
+    width: 400px;
+    height: 200px;
+    background-color: grey;
+}
+#dojo {
+    width: 400px;
+    height: 200px;
+    background-color: grey;
+    display: flex; /* this line is new! */
+}
+#dojo {
+    width: 400px;
+    height: 200px;
+    background-color: grey;
+    display: flex;
+    align-items: center; /* this line is new! */
+}

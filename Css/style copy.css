@@ -1,0 +1,19 @@
+h1{ background-color: black;
+    color:aqua;
+    font-size:50px;
+}
+.middlecenter{
+    text-align: center;
+    background-color: purple;
+    color: whitesmoke;
+    font-family:inherit;
+    font-style: italic;
+}
+
+.rightside{
+    text-align: end;
+    background-color: cornflowerblue;
+    color: black;
+    text-decoration: underline;
+
+}

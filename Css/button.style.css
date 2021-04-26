@@ -1,0 +1,21 @@
+.h1{
+    color: rgb(66, 182, 175);
+    border-color: rgb(66, 194, 181);
+    border-style: ridge;
+    padding: left 30px;
+    padding: right 30px;
+    width:9%;;
+    border-radius: 5px
+}
+.plus{
+    color: white;
+    background-color: lightseagreen;
+    border-radius: 50%;
+    border:none;
+}
+.create{
+    color: white;
+    background-color: rgb(67, 90, 182);
+    width: 8%;
+    box-shadow: 10px 5px 5px black
+}

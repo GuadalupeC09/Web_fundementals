@@ -1,0 +1,37 @@
+.nav{
+    background-color: grey;
+    width: 100%;
+    color:whitesmoke;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-links{
+    display:inline-flex;
+    list-style:none;
+    justify-content:center;
+    align-items:center;
+    margin: 20px;
+}
+h1{
+text-align:left;
+display:flex;
+margin-left: 30px;
+}
+
+li{
+    margin-left: 20px;
+    text-decoration:none;
+    color: indigo;
+}
+
+a{
+    color: lightblue;
+    text-decoration: none;
+    margin-right: 20px;
+}
+.btn{
+    background-color:lightseagreen;
+    color:whitesmoke;
+    box-shadow: 10px 5px 5px black;
+    margin: 10px;
+}
